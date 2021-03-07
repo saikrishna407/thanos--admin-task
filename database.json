@@ -1,0 +1,51 @@
+{
+  "Candidates": [
+    {
+      "id": "1",
+      "Name": "sai",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "2",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "3",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "4",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    },
+    {
+      "id": "5",
+      "Name": "sai2",
+      "Adderss": "This is the post body",
+      "Email": "saikrishna@gmail.com",
+      "Phone Number": "999999999",
+      "Website": "www.saikrishna.com"
+    }
+  ],
+  "Admin": [
+    {
+      "name": "Thanos",
+      "email": "admin@thanos.com",
+      "id": "-LAusLW"
+    }
+  ]
+}
